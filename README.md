@@ -1,0 +1,1 @@
+A simple [Hamming Distance] calculator with strong checks on bit vector sizes.
